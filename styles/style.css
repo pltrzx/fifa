@@ -1,0 +1,83 @@
+
+
+.container {
+    display: inline-block;
+    width: calc(100% - 250px);
+}
+
+.container div{
+    text-align: center;
+    
+}
+
+main {
+    
+    text-align: center;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav {
+    width: 200px;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-right: 35px;
+    display: inline-block;
+}
+nav a{
+    display:block;
+    font-size: 20px;
+    padding: 10px;
+}
+
+h2 {
+    width: 100%;
+}
+
+
+.bg-image{
+    background-image: url(../src/images/EA_FC24_Cover.jpg);
+    height: 100px;
+
+}
+
+main div {
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    margin: 20px;
+}
+.bg1{
+    background-image: url(../src/images/gajd-i-sovety-dlya-fifa-24-ea-sports-fc-24_1696274693571578820.jpg);
+    background-size: cover;
+}
+.bg2{
+    background-image: url(../src/images/full.jpg);
+    background-size: cover;
+}.bg3{
+    background-image: url(../src/images/fifa-24-ea-sports-fc-24-data-vyhoda-detali_1692712288210771834.jpg);
+    background-size: cover;
+}
+.bg4{
+    background-image: url(../src/images/1.jpg);
+    background-size: cover;
+}
+.bg5{
+    background-image: url(../src/images/16945328021205661016.png);
+    background-size: cover;
+}
+.bg6{
+    background-image: url(../src/images/6671d36fe44c8927b2ff03e02bf21.jpeg);
+    background-size: cover;
+}
+.bg7{
+    background-image: url(../src/images/0822f628cb-1_350x250.jpg);
+    background-size: cover;
+}.bg8{
+    background-image: url(../src/images/d4686cd7c0-3_350x250.jpg);
+    background-size: cover;
+}.bg9{
+    background-image: url(../src/images/fc24-pre-order-founders.jpg.adapt_.1920w.jpg);
+    background-size: cover;
+}
